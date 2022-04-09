@@ -1,0 +1,23 @@
+#logo {
+    display:flex;
+    width : 180px;
+    color : white;
+    font-size: 100px;
+    font-family: cursive;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    padding-bottom: 10px;
+    border-style: solid;
+    border: 1px 1px 1px 1px;
+    border-color: black;
+
+}
+
+#quotation {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
